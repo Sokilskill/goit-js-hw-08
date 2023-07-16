@@ -23,6 +23,7 @@
 input,
 textarea {
   padding: 8px;
+  color: blue;
   font: inherit;
 }
 
